@@ -1,0 +1,24 @@
+{
+  "common": { 
+    "hello_world": "bine ați venit la ESSolutions",
+    "list": "lista",
+    "listv": "listați",
+    "create": "creați",
+    "edit": "editați",
+    "delete": "ștergeți",
+    "save": "salvați",
+    "cancel": "anulați",
+    "loading": "se incarcă",
+    "admin": "administrare",
+    "error_saving": "Eroare la salvare",
+    "ok": "bine",
+    "nr": "nr.",
+    "from": "din",
+    "remove": "scoateți",
+    "download": "descarcati pdf",
+    "generate": "generati pdf"
+  },
+  "orderbooks": {
+    "orderbooks": "registru de comenzi"
+  }
+}

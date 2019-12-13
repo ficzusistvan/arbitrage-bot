@@ -1,0 +1,44 @@
+{
+  "ports": {
+    "http_server": 3003,
+    "socket_io": 3005
+  },
+  "pushbullet": {
+    "api_key": "xxx",
+    "email": "a@a.a"
+  },
+  "exchange1": {
+    "name": "binance",
+    "fixed_length_name": "binance     ",
+    "api_key": "xxx",
+    "secret_key": "xxx",
+    "passphrase": "xxx",
+    "ws_timeout_ms": {
+      "ping": 210000,
+      "restart": 5000
+    },
+    "symbol": "ZECUSDT",
+    "base_asset": "ZEC",
+    "quote_asset": "USDT",
+    "min_trade_amount": 10
+  },
+  "exchange2": {
+    "name": "coinbasepro",
+    "fixed_length_name": "coinbasepro ",
+    "api_key": "xxx",
+    "secret_key": "xxx",
+    "passphrase": "xxx",
+    "ws_timeout_ms": {
+      "ping": 210000,
+      "restart": 5000
+    },
+    "symbol": "ZECUSDC",
+    "base_asset": "ZEC",
+    "quote_asset": "USDC",
+    "min_trade_amount": 10
+  },
+  "arbiter": {
+    "mode": "backtesting",
+    "min_profitability": 0.05
+  }
+}
