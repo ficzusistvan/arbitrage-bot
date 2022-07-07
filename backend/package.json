@@ -17,7 +17,7 @@
     "emittery": "^0.4.1",
     "express": "~4.16.1",
     "knex": "^0.20.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nconf": "^0.10.0",
     "pushbullet": "^2.4.0",
     "request": "^2.88.0",
